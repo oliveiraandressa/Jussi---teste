@@ -1,0 +1,1156 @@
+{
+	"products": [
+		{
+			"id": "0001",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "184552",
+							"imageUrl": "product-01-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183828",
+							"imageUrl": "product-01-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0002",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-02-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-02-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0003",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-03-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-03-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0004",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-02-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-02-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0005",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-03-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-03-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0006",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "184552",
+							"imageUrl": "product-01-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183828",
+							"imageUrl": "product-01-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0007",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-03-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-03-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0008",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-02-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-02-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0009",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "184552",
+							"imageUrl": "product-01-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183828",
+							"imageUrl": "product-01-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0010",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "184552",
+							"imageUrl": "product-01-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183828",
+							"imageUrl": "product-01-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0011",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-02-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-02-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0012",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-03-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-03-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0013",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-02-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-02-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0014",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-03-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-03-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0015",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "184552",
+							"imageUrl": "product-01-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183828",
+							"imageUrl": "product-01-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0016",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-03-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-03-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0018",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "183889",
+							"imageUrl": "product-02-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183890",
+							"imageUrl": "product-02-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		},
+		{
+			"id": "0019",
+			"productName": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control",
+			"brand": "Jussi",
+			"linkText": "geladeira-frost-free-500-litros-brm58ak",
+			"productReference": "BRM58AK",
+			"categoryId": "48",
+			"link": "http://loja.com.br/geladeira-frost-free-500-litros-brm58ak/p",
+			"technicalCharacteristics": [
+				"Tipo do produto",
+				"Consumo Aproximado de Energia (kWh)",
+				"Capacidade Total (L)",
+				"Dispenser de água",
+				"Prateleiras removíveis",
+				"Tipo de Degelo",
+				"Capacidade",
+				"Cor",
+				"Recipiente para guardar gelo",
+				"Compartimento extra frio",
+				"Porta ovos",
+				"Porta latas",
+				"Portfólio",
+				"Garantia do Fornecedor (mês)",
+				"Alarme de porta aberta",
+				"Pés niveladores",
+				"Marca",
+				"Porta reversível",
+				"Display",
+				"Controle de temperatura",
+				"Mostrador frontal de temperatura",
+				"Nº de Portas",
+				"Painel de Controle",
+				"Formato"
+			],
+			"modelName": [
+				"BRM58AK"
+			],
+			"description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus diam at gravida aliquam. Nulla tincidunt, ante nec cursus elementum, diam felis dapibus enim, vel porta nibh dui eu est. Donec vitae arcu dolor. Sed suscipit luctus rhoncus. Proin faucibus, nibh id sollicitudin feugiat, tellus nisl scelerisque orci, sit amet rhoncus dolor quam in dolor. Nam egestas in diam ac blandit. Morbi vestibulum ante felis, et mattis augue rhoncus vitae. Vivamus augue odio, dictum vitae lacinia eget, molestie venenatis nulla. Fusce sed dictum dolor. </p><p>Morbi in augue justo. In vulputate tincidunt vulputate. Integer sed sodales metus. Integer gravida enim sed odio ornare condimentum. Nulla sit amet risus vitae sapien vestibulum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>",
+			"items": [
+				{
+					"itemId": "2004118",
+					"name": "110V",
+					"nameComplete": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V",
+					"complementName": "BRM58AK",
+					"images": [
+						{
+							"imageId": "184552",
+							"imageUrl": "product-01-imagem-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						},
+						{
+							"imageId": "183828",
+							"imageUrl": "product-01-imagem-frontal-1000X1000.jpg",
+							"imageText": "Geladeira Frost Free Duplex 500 litros cor Inox com Turbo Control 110V"
+						}
+					],
+					"Price": 3514,
+					"ListPrice": 4429,
+					"PriceWithoutDiscount": 3514,
+					"RewardValue": 0,
+					"AvailableQuantity": 240
+				}
+			]
+		}
+	]
+}

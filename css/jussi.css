@@ -1,0 +1,138 @@
+@font-face {
+    font-family: proxima-nova;
+    src: url(fonts/proxima-nova.otf);
+}
+body{
+    font-family: proxima-nova;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* Partes */
+.menu{
+    background-color: #303030;
+    color: white;
+    height: 55px;
+}
+.banner{
+    /*height: 300px;*/
+    background-color: #969696;
+    padding: 0;
+    margin: auto;
+   
+}
+
+.vitrine{
+    background-color: #e6e6e6;
+    margin: 0px;
+}
+.corpo{
+    background-color: #ffffff;
+    margin: 50px;
+}
+.btn-adicionar{
+    font-size: 11px;
+    background-color: #ffc62d;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 95%;
+}
+.btn-comprar{
+    color: black;
+    font-size: 14px;
+    background-color: #ffc62d;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 95%;
+}
+.btn-comprar:hover{
+    color: black;
+    background-color: #FFD051;
+
+    width: 95%;
+}
+
+/* itens */
+
+.produto {
+    background-color: white;
+    margin-right: 25px;
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+    min-width: 250px;
+    max-width: 250px;
+    margin: auto;
+	
+}
+.img-produto{
+    margin: auto;
+}
+.texto-cinza{
+    color:#a3a3a3;
+    
+}
+.preco{
+    font-size: 25px;
+    font-weight: bold;
+}
+#navbarDropdown a{
+    color: white !important;
+}
+
+#shopping-cart{
+    color: red !important;
+    height: 55px;
+    width: 55px;
+    margin: 0px;
+    padding-top: 10px;
+}
+#shopping-cart-icon{
+    margin-left: -15px;
+}
+#shopping-cart:hover{
+    background-color: white !important;
+}
+#shopping-cart a{
+    color: white !important;
+}
+#shopping-cart:hover a{
+    color: #000000 !important;
+}
+
+.badge:after{
+    content:"0";
+    position: absolute;
+    background: #ffc62d;
+    height:18px;
+    top:10px;
+    width:18px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    border-radius: 50%;
+    color:black;
+    font-family: proxima-nova;
+    font-weight: bold;
+}
+.carrinho{
+    max-width: 500px !important;
+}
+.wrap-txt{
+    word-wrap: break-word !important;
+}
+.cart-txt{
+    font-size: 0.8em;
+}
+.vl {
+    border-left: 1px solid gray;
+    height: 50px;
+    margin: 5px;
+}
+.margin-auto{
+    margin: auto;
+}
+.pad-20{
+    padding: 20px;
+}
